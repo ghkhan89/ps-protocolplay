@@ -2,7 +2,7 @@
 	.Description: Enable/Disable TLS & SSL	
 	.How to Use : Just Run the script		
 	.Written By: Ghufran Khan		
-	.Find me on GitHub: https://github.com/ghkhan89
+	.Find me on GitHub: https://github.com/ghkhan89?tab=repositories
 	.Find me on Facebook: https://www.facebook.com/GhufranKhan89
 #>
 Clear-Host
